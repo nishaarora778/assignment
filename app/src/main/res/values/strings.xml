@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="splashScreen">Assignment</string>
+    <string name="btnRetry_text">Retry</string>
+    <string name="name">Name</string>
+    <string name="userName">Username</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="close">Close</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_users">No Users</string>
+    <string name="user_no_input">Users has no input</string>
+    <string name="no_response">No Response</string>
+</resources>
